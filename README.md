@@ -15,3 +15,6 @@ List of programs:
 - `hello_asm`: prints "Hi!", minimal program
 - `read_ram`: reads data from RAM and sends it to output device
 - `write_ram`: stores data to RAM, then reads it back and sends value to output device
+- `pi_spigot`: computes N digits of Pi using Spigot algorithm
+- `pi_chudnovsky_bcd`: computes N digits of Pi using Chudnovsky algorithm, but without any optimizations
+- `pi_chudnovsky`: computes N digits of Pi using Chudnovksy algorithm with bunch of optimizations

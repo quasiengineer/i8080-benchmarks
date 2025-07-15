@@ -1,5 +1,6 @@
 # listing files
 *.lis
+*.map
 
 # IDE
 .vscode
